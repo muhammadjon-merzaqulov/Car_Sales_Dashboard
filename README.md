@@ -9,12 +9,6 @@
     <li><b>Filters & Slicers</b> – Easy-to-use filters for drilling down into specific insights.</li>
     <li><b>User-Friendly Interface</b> – Intuitive navigation and well-structured reports.</li>
 </ul>
-    
-<h2>🌍 Live Report Access</h2>
-<p>You can view the report online via Power BI Service:</p>
-<p>
-    <a class="button" href="https://app.powerbi.com/reportEmbed?reportId=f034e25e-6a23-4710-8557-b3150e7afecf&autoAuth=true&ctid=94bfd420-303e-4766-941c-d7e5432c9f77" target="_blank">🚀 View Report</a>
-</p>
 
 <h2>📂 Data Sources</h2>
 <ul>
@@ -37,7 +31,7 @@
 <p>
 <a class="button" href="https://app.powerbi.com/reportEmbed?reportId=f034e25e-6a23-4710-8557-b3150e7afecf&autoAuth=true&ctid=94bfd420-303e-4766-941c-d7e5432c9f77" target="_blank">🔗 View Report</a>
 </p>
-
+<br>
 <h3>Alternatively, embed the report directly into an HTML page:</h3>
 <pre>
     &lt;iframe title="Power BI Report" width="100%" height="600"<br>
