@@ -1,6 +1,6 @@
 <h2>📌 Overview</h2>
 <p>This Power BI report, <b>BigData.pbix</b>, provides interactive visualizations and insights derived from a large dataset. It is designed to help users analyze key trends, performance metrics, and data-driven decisions efficiently.</p>
-    
+
 <h2>📊 Features</h2>
 <ul>
     <li><b>Dynamic Dashboards</b> – Interactive charts and visuals for better decision-making.</li>
@@ -9,7 +9,7 @@
     <li><b>Filters & Slicers</b> – Easy-to-use filters for drilling down into specific insights.</li>
     <li><b>User-Friendly Interface</b> – Intuitive navigation and well-structured reports.</li>
 </ul>
-
+    
 <h2>🌍 Live Report Access</h2>
 <p>You can view the report online via Power BI Service:</p>
 <p>
@@ -23,7 +23,7 @@
     <li><b>Cloud-based APIs</b></li>
     <li><b>Other structured data sources</b></li>
 </ul>
-
+    
 <h2>🚀 How to Use</h2>
 <ol>
     <li><b>Open the File:</b> Download and open <code>BigData.pbix</code> using <b>Power BI Desktop</b>.</li>
@@ -31,7 +31,7 @@
     <li><b>Apply Filters:</b> Use slicers and filters to drill down into specific data points.</li>
     <li><b>Customize as Needed:</b> Modify visuals, add new measures, or integrate additional data sources.</li>
 </ol>
-    
+
 <h2>🔗 View Online</h2>
 <p>You can view the Power BI report online using the following link:</p>
 <p>
@@ -39,15 +39,19 @@
 </p>
 
 <h3>Alternatively, embed the report directly into an HTML page:</h3>
-<iframe title="Power BI Report" width="100%" height="600" src="https://app.powerbi.com/reportEmbed?reportId=f034e25e-6a23-4710-8557-b3150e7afecf&autoAuth=true&ctid=94bfd420-303e-4766-941c-d7e5432c9f77" frameborder="0" allowFullScreen="true"></iframe>
-
+<div class="code-block">
+    &lt;iframe title="Power BI Report" width="100%" height="600"<br>
+    src="https://app.powerbi.com/reportEmbed?reportId=f034e25e-6a23-4710-8557-b3150e7afecf&autoAuth=true&ctid=94bfd420-303e-4766-941c-d7e5432c9f77"<br>
+    frameborder="0" allowFullScreen="true"&gt;&lt;/iframe&gt;
+</div>
+    
 <h2>🔧 Requirements</h2>
 <ul>
     <li><b>Power BI Desktop</b> (latest version recommended)</li>
     <li><b>Access to the required data sources</b> (if external connections are needed)</li>
     <li><b>Basic knowledge of Power BI & DAX</b> for customization</li>
 </ul>
-    
+
 <h2>🛠 Customization & Enhancements</h2>
 <p>Users can enhance this report by:</p>
 <ul>
