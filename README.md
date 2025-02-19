@@ -1,5 +1,5 @@
 <h2>📌 Overview</h2>
-<p>This Power BI report, <b>BigData.pbix</b>, provides interactive visualizations and insights derived from a large dataset. It is designed to help users analyze key trends, performance metrics, and data-driven decisions efficiently.</p>
+<p>This Power BI report, <b>BMW_sales_dashbord_BI.pbix</b>, provides interactive visualizations and insights derived from a large dataset. It is designed to help users analyze key trends, performance metrics, and data-driven decisions efficiently.</p>
 
 <h2>📊 Features</h2>
 <ul>
